@@ -1,4 +1,10 @@
 # Explanation Based Rescaling
+
+Our data is now available on huggingface 🤗:https://huggingface.co/datasets/wadhma/EBR 
+For getting access to the articles please secure the right licenses/reach out to the author!
+
+------------------------------------------------------------
+
 This repository hosts the dataset for explanation based rescaling 
 
 The two datasets used in the experiments are:
